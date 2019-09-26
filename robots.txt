@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahboamiit.graphtax.ca/sitemap.xml
